@@ -14,15 +14,16 @@
     <text x="400" y="75" text-anchor="middle" font-family="system-ui,sans-serif" font-size="36" fill="#fff" font-weight="700" letter-spacing="1">awesome-ceuta-y-melilla</text>
     <rect x="280" y="86" width="240" height="2" rx="1" fill="#000000" opacity="0.5"/>
     <text x="400" y="116" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="rgba(255,255,255,0.5)" font-weight="300" letter-spacing="3">SOFTWARE OPEN SOURCE PARA CEUTA Y MELILLA</text>
-    <!-- 7 stylized fortress/tower shapes representing Ceuta and Melilla fortifications -->
-    <g fill="#FFD700" opacity="0.5" transform="translate(400,155)">
-      <g transform="translate(-54,0)"><rect x="-5" y="-2" width="10" height="9"/><rect x="-5" y="-5" width="3" height="3"/><rect x="2" y="-5" width="3" height="3"/></g>
-      <g transform="translate(-18,0)"><rect x="-5" y="-2" width="10" height="9"/><rect x="-5" y="-5" width="3" height="3"/><rect x="2" y="-5" width="3" height="3"/></g>
-      <g transform="translate(18,0)"><rect x="-5" y="-2" width="10" height="9"/><rect x="-5" y="-5" width="3" height="3"/><rect x="2" y="-5" width="3" height="3"/></g>
-      <g transform="translate(54,0)"><rect x="-5" y="-2" width="10" height="9"/><rect x="-5" y="-5" width="3" height="3"/><rect x="2" y="-5" width="3" height="3"/></g>
-      <g transform="translate(-36,18)"><rect x="-5" y="-2" width="10" height="9"/><rect x="-5" y="-5" width="3" height="3"/><rect x="2" y="-5" width="3" height="3"/></g>
-      <g transform="translate(0,18)"><rect x="-5" y="-2" width="10" height="9"/><rect x="-5" y="-5" width="3" height="3"/><rect x="2" y="-5" width="3" height="3"/></g>
-      <g transform="translate(36,18)"><rect x="-5" y="-2" width="10" height="9"/><rect x="-5" y="-5" width="3" height="3"/><rect x="2" y="-5" width="3" height="3"/></g>
+    <!-- Ceuta: 5-pointed star (left) | Melilla: crescent (right) — multicultural symbols -->
+    <g opacity="0.5" transform="translate(400,162)">
+      <!-- Ceuta star -->
+      <polygon points="-40,-10 -37,-2 -29,-2 -35,3 -33,11 -40,6 -47,11 -45,3 -51,-2 -43,-2" fill="#FFD700"/>
+      <!-- Melilla crescent -->
+      <circle cx="40" cy="0" r="9" fill="#FFD700"/>
+      <circle cx="44" cy="-2" r="7" fill="#0a0a0f"/>
+      <!-- Strait of Gibraltar waves between -->
+      <path d="M-15,6 Q-10,2 -5,6 Q0,10 5,6 Q10,2 15,6" fill="none" stroke="#0077BE" stroke-width="1.5" opacity="0.4"/>
+      <path d="M-18,12 Q-13,8 -8,12 Q-3,16 2,12 Q7,8 12,12 Q17,16 22,12" fill="none" stroke="#0077BE" stroke-width="1" opacity="0.3"/>
     </g>
   </g>
 </svg>
