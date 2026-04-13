@@ -14,6 +14,9 @@
 
 - [Administración y Gobierno](#administración-y-gobierno)
 - [Datos Abiertos y Estadísticas](#datos-abiertos-y-estadísticas)
+- [Educación](#educación)
+- [Energía](#energía)
+- [Fiscalidad y Facturación](#fiscalidad-y-facturación)
 - [Medio Ambiente y Territorio](#medio-ambiente-y-territorio)
 - [Puertos y Transporte Marítimo](#puertos-y-transporte-marítimo)
 - [Sanidad](#sanidad)
@@ -34,6 +37,46 @@
 ### Ceuta
 
 ### Melilla
+
+### Ceuta y Melilla
+
+- [electoral-systems](https://github.com/ATL64/electoral-systems) [![Stars](https://img.shields.io/github/stars/ATL64/electoral-systems?style=flat-square&label=%E2%AD%90)](https://github.com/ATL64/electoral-systems/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/ATL64/electoral-systems?style=flat-square)](https://github.com/ATL64/electoral-systems/commits/main) [![Language](https://img.shields.io/github/languages/top/ATL64/electoral-systems?style=flat-square)](https://github.com/ATL64/electoral-systems) [![License](https://img.shields.io/github/license/ATL64/electoral-systems?style=flat-square)](https://github.com/ATL64/electoral-systems/blob/main/LICENSE) [![CeutMel](https://img.shields.io/badge/CeutMel-000000?style=flat-square)](https://www.ceuta.es/) - Aplicación Dash para analizar el impacto de diferentes sistemas electorales en elecciones parlamentarias españolas, incluyendo Ceuta y Melilla como circunscripciones.
+
+## Educación
+
+### Ceuta
+
+- [LibreOffice_CEUTA](https://github.com/Makova/LibreOffice_CEUTA) [![Stars](https://img.shields.io/github/stars/Makova/LibreOffice_CEUTA?style=flat-square&label=%E2%AD%90)](https://github.com/Makova/LibreOffice_CEUTA/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/Makova/LibreOffice_CEUTA?style=flat-square)](https://github.com/Makova/LibreOffice_CEUTA/commits/master) [![Language](https://img.shields.io/github/languages/top/Makova/LibreOffice_CEUTA?style=flat-square)](https://github.com/Makova/LibreOffice_CEUTA) [![License](https://img.shields.io/github/license/Makova/LibreOffice_CEUTA?style=flat-square)](https://github.com/Makova/LibreOffice_CEUTA/blob/master/LICENSE) [![UGR Ceuta](https://img.shields.io/badge/UGR%20Ceuta-000000?style=flat-square)](https://campusceuta.ugr.es/) - Material del curso sobre LibreOffice 5 impartido en el campus de Ceuta de la Universidad de Granada.
+
+### Melilla
+
+## Energía
+
+### Ceuta
+
+### Melilla
+
+- [Melilla-Energy-Demand-Project](https://github.com/dravicenna/Melilla-Energy-Demand-Project) [![Stars](https://img.shields.io/github/stars/dravicenna/Melilla-Energy-Demand-Project?style=flat-square&label=%E2%AD%90)](https://github.com/dravicenna/Melilla-Energy-Demand-Project/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/dravicenna/Melilla-Energy-Demand-Project?style=flat-square)](https://github.com/dravicenna/Melilla-Energy-Demand-Project/commits/master) [![Language](https://img.shields.io/github/languages/top/dravicenna/Melilla-Energy-Demand-Project?style=flat-square)](https://github.com/dravicenna/Melilla-Energy-Demand-Project) [![License](https://img.shields.io/github/license/dravicenna/Melilla-Energy-Demand-Project?style=flat-square)](https://github.com/dravicenna/Melilla-Energy-Demand-Project/blob/master/LICENSE) [![Melilla](https://img.shields.io/badge/Melilla-000000?style=flat-square)](https://www.melilla.es/) - Proyecto completo de machine learning para la predicción de demanda eléctrica en la ciudad de Melilla.
+- [SpainEnergyConsumingScraper](https://github.com/dravicenna/SpainEnergyConsumingScraper) [![Stars](https://img.shields.io/github/stars/dravicenna/SpainEnergyConsumingScraper?style=flat-square&label=%E2%AD%90)](https://github.com/dravicenna/SpainEnergyConsumingScraper/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/dravicenna/SpainEnergyConsumingScraper?style=flat-square)](https://github.com/dravicenna/SpainEnergyConsumingScraper/commits/master) [![Language](https://img.shields.io/github/languages/top/dravicenna/SpainEnergyConsumingScraper?style=flat-square)](https://github.com/dravicenna/SpainEnergyConsumingScraper) [![License](https://img.shields.io/github/license/dravicenna/SpainEnergyConsumingScraper?style=flat-square)](https://github.com/dravicenna/SpainEnergyConsumingScraper/blob/master/LICENSE) [![Melilla](https://img.shields.io/badge/Melilla-000000?style=flat-square)](https://www.melilla.es/) - Web scraper para obtener datos de festivos, meteorología y demanda eléctrica de la ciudad de Melilla.
+
+### Ceuta y Melilla
+
+- [esiosdata](https://github.com/azogue/esiosdata) [![Stars](https://img.shields.io/github/stars/azogue/esiosdata?style=flat-square&label=%E2%AD%90)](https://github.com/azogue/esiosdata/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/azogue/esiosdata?style=flat-square)](https://github.com/azogue/esiosdata/commits/master) [![Language](https://img.shields.io/github/languages/top/azogue/esiosdata?style=flat-square)](https://github.com/azogue/esiosdata) [![License](https://img.shields.io/github/license/azogue/esiosdata?style=flat-square)](https://github.com/azogue/esiosdata/blob/master/LICENSE) [![CeutMel](https://img.shields.io/badge/CeutMel-000000?style=flat-square)](https://www.ceuta.es/) - Scraper de datos de demanda, producción y coste de energía eléctrica en España con simulador de facturación PVPC que incluye zona fiscal IPSI para Ceuta y Melilla.
+- [luzfija.es](https://github.com/almax-es/luzfija.es) [![Stars](https://img.shields.io/github/stars/almax-es/luzfija.es?style=flat-square&label=%E2%AD%90)](https://github.com/almax-es/luzfija.es/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/almax-es/luzfija.es?style=flat-square)](https://github.com/almax-es/luzfija.es/commits/main) [![Language](https://img.shields.io/github/languages/top/almax-es/luzfija.es?style=flat-square)](https://github.com/almax-es/luzfija.es) [![License](https://img.shields.io/github/license/almax-es/luzfija.es?style=flat-square)](https://github.com/almax-es/luzfija.es/blob/main/LICENSE) [![CeutMel](https://img.shields.io/badge/CeutMel-000000?style=flat-square)](https://www.ceuta.es/) - Comparador de tarifas de luz independiente y gratuito con soporte específico para la zona fiscal IPSI de Ceuta y Melilla.
+- [precioLuz](https://github.com/serg6io4/precioLuz) [![Stars](https://img.shields.io/github/stars/serg6io4/precioLuz?style=flat-square&label=%E2%AD%90)](https://github.com/serg6io4/precioLuz/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/serg6io4/precioLuz?style=flat-square)](https://github.com/serg6io4/precioLuz/commits/main) [![Language](https://img.shields.io/github/languages/top/serg6io4/precioLuz?style=flat-square)](https://github.com/serg6io4/precioLuz) [![License](https://img.shields.io/github/license/serg6io4/precioLuz?style=flat-square)](https://github.com/serg6io4/precioLuz/blob/main/LICENSE) [![CeutMel](https://img.shields.io/badge/CeutMel-000000?style=flat-square)](https://www.ceuta.es/) - Aplicación web que muestra los precios de la luz en España por tramo horario, incluyendo las zonas de Ceuta y Melilla.
+
+## Fiscalidad y Facturación
+
+### Ceuta
+
+### Melilla
+
+### Ceuta y Melilla
+
+- [ceuta_y_melilla](https://github.com/FacturaScripts/ceuta_y_melilla) [![Stars](https://img.shields.io/github/stars/FacturaScripts/ceuta_y_melilla?style=flat-square&label=%E2%AD%90)](https://github.com/FacturaScripts/ceuta_y_melilla/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/FacturaScripts/ceuta_y_melilla?style=flat-square)](https://github.com/FacturaScripts/ceuta_y_melilla/commits/master) [![Language](https://img.shields.io/github/languages/top/FacturaScripts/ceuta_y_melilla?style=flat-square)](https://github.com/FacturaScripts/ceuta_y_melilla) [![License](https://img.shields.io/github/license/FacturaScripts/ceuta_y_melilla?style=flat-square)](https://github.com/FacturaScripts/ceuta_y_melilla/blob/master/LICENSE) [![FacturaScripts](https://img.shields.io/badge/FacturaScripts-000000?style=flat-square)](https://www.facturascripts.com/plugin/ceuta_y_melilla) - Plugin de adaptación de FacturaScripts para el régimen fiscal específico de Ceuta y Melilla (IPSI).
+- [l10n-spain](https://github.com/OCA/l10n-spain) [![Stars](https://img.shields.io/github/stars/OCA/l10n-spain?style=flat-square&label=%E2%AD%90)](https://github.com/OCA/l10n-spain/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/OCA/l10n-spain?style=flat-square)](https://github.com/OCA/l10n-spain/commits/18.0) [![Language](https://img.shields.io/github/languages/top/OCA/l10n-spain?style=flat-square)](https://github.com/OCA/l10n-spain) [![License](https://img.shields.io/github/license/OCA/l10n-spain?style=flat-square)](https://github.com/OCA/l10n-spain/blob/18.0/LICENSE) [![OCA](https://img.shields.io/badge/OCA-000000?style=flat-square)](https://odoo-community.org/) - Localización española de Odoo mantenida por la OCA, con soporte de facturación electrónica (Facturae) que incluye el tipo impositivo IPSI de Ceuta y Melilla.
+- [pyverifactu](https://github.com/tonibagur/pyverifactu) [![Stars](https://img.shields.io/github/stars/tonibagur/pyverifactu?style=flat-square&label=%E2%AD%90)](https://github.com/tonibagur/pyverifactu/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/tonibagur/pyverifactu?style=flat-square)](https://github.com/tonibagur/pyverifactu/commits/main) [![Language](https://img.shields.io/github/languages/top/tonibagur/pyverifactu?style=flat-square)](https://github.com/tonibagur/pyverifactu) [![License](https://img.shields.io/github/license/tonibagur/pyverifactu?style=flat-square)](https://github.com/tonibagur/pyverifactu/blob/main/LICENSE) [![CeutMel](https://img.shields.io/badge/CeutMel-000000?style=flat-square)](https://www.ceuta.es/) - Implementación en Python del sistema Verifactu de la AEAT que incluye el tipo impositivo IPSI específico de Ceuta y Melilla.
+- [Tabla-de-impuestos](https://github.com/WooCommerce-es/Tabla-de-impuestos) [![Stars](https://img.shields.io/github/stars/WooCommerce-es/Tabla-de-impuestos?style=flat-square&label=%E2%AD%90)](https://github.com/WooCommerce-es/Tabla-de-impuestos/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/WooCommerce-es/Tabla-de-impuestos?style=flat-square)](https://github.com/WooCommerce-es/Tabla-de-impuestos/commits/master) [![Language](https://img.shields.io/github/languages/top/WooCommerce-es/Tabla-de-impuestos?style=flat-square)](https://github.com/WooCommerce-es/Tabla-de-impuestos) [![License](https://img.shields.io/github/license/WooCommerce-es/Tabla-de-impuestos?style=flat-square)](https://github.com/WooCommerce-es/Tabla-de-impuestos/blob/master/LICENSE) [![CeutMel](https://img.shields.io/badge/CeutMel-000000?style=flat-square)](https://www.ceuta.es/) - Tabla de impuestos importable a WooCommerce para el IVA en España, que excluye correctamente a Canarias, Ceuta y Melilla de la aplicación del IVA.
 
 ## Medio Ambiente y Territorio
 
