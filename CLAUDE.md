@@ -1,4 +1,4 @@
-# AGENTS.md — awesome-ceuta-y-melilla
+# CLAUDE.md — awesome-ceuta-y-melilla
 
 ## Propósito
 
