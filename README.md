@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="media/banner.svg" alt="Awesome Ceuta y Melilla">
+  <img src="docs/images/banner.svg" alt="Awesome Ceuta y Melilla">
   <br><br>
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a>
-  <a href="https://www.ceuta.es/"><img src="https://img.shields.io/badge/Ceuta-000000?style=flat-square" alt="Ceuta"></a>
-  <a href="https://www.melilla.es/"><img src="https://img.shields.io/badge/Melilla-000000?style=flat-square" alt="Melilla"></a>
   <br><br>
   <p>Una selección de software open source que da soporte específico a las ciudades autónomas de Ceuta y Melilla, sus instituciones, puertos y servicios públicos.</p>
 </div>
@@ -24,7 +22,7 @@
 
 <!--lint enable awesome-list-item-->
 
-**Leyenda:** Cada entrada muestra: ![Stars](https://img.shields.io/badge/%E2%AD%90-grey?style=flat-square) estrellas, ![Last Commit](https://img.shields.io/badge/commit-grey?style=flat-square) actividad, ![Language](https://img.shields.io/badge/lang-grey?style=flat-square) lenguaje, ![License](https://img.shields.io/badge/license-grey?style=flat-square) licencia, [![Ceuta](https://img.shields.io/badge/Ceuta-000000?style=flat-square)](https://www.ceuta.es/) [![Melilla](https://img.shields.io/badge/Melilla-000000?style=flat-square)](https://www.melilla.es/) etiqueta de institución/ubicación, ([Demo](https://github.com/GeiserX/awesome-ceuta-y-melilla)) demo en vivo. Todas las insignias son clicables y se actualizan automáticamente. Las etiquetas enlazan a las páginas oficiales de cada institución.
+> Las insignias muestran: ⭐ estrellas, último commit, lenguaje principal y licencia. Las etiquetas de color enlazan a la página oficial de cada institución o servicio.
 
 ## Administración y Gobierno
 
@@ -35,7 +33,7 @@
 
 ### Melilla
 
-- [ccoo-segpriv-melilla](https://github.com/fitypaidito/ccoo-segpriv-melilla) [![Stars](https://img.shields.io/github/stars/fitypaidito/ccoo-segpriv-melilla?style=flat-square&label=%E2%AD%90)](https://github.com/fitypaidito/ccoo-segpriv-melilla/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/fitypaidito/ccoo-segpriv-melilla?style=flat-square)](https://github.com/fitypaidito/ccoo-segpriv-melilla/commits/main) [![Language](https://img.shields.io/github/languages/top/fitypaidito/ccoo-segpriv-melilla?style=flat-square)](https://github.com/fitypaidito/ccoo-segpriv-melilla) [![License](https://img.shields.io/github/license/fitypaidito/ccoo-segpriv-melilla?style=flat-square)](https://github.com/fitypaidito/ccoo-segpriv-melilla/blob/main/LICENSE) [![CCOO Melilla](https://img.shields.io/badge/CCOO%20Melilla-000000?style=flat-square)](https://www.melilla.es/) - App oficial de la Sección Sindical de Seguridad Privada de CCOO Hábitat Melilla con herramientas para afiliados.
+- [ccoo-segpriv-melilla](https://github.com/fitypaidito/ccoo-segpriv-melilla) [![Stars](https://img.shields.io/github/stars/fitypaidito/ccoo-segpriv-melilla?style=flat-square&label=%E2%AD%90)](https://github.com/fitypaidito/ccoo-segpriv-melilla/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/fitypaidito/ccoo-segpriv-melilla?style=flat-square)](https://github.com/fitypaidito/ccoo-segpriv-melilla/commits/main) [![Language](https://img.shields.io/github/languages/top/fitypaidito/ccoo-segpriv-melilla?style=flat-square)](https://github.com/fitypaidito/ccoo-segpriv-melilla) [![License](https://img.shields.io/github/license/fitypaidito/ccoo-segpriv-melilla?style=flat-square)](https://github.com/fitypaidito/ccoo-segpriv-melilla/blob/main/LICENSE) [![CCOO Melilla](https://img.shields.io/badge/CCOO%20Melilla-000000?style=flat-square)](https://habitat.ccoo.es/Territorio/Melilla) - App oficial de la Sección Sindical de Seguridad Privada de CCOO Hábitat Melilla con herramientas para afiliados.
 
 ## Datos Abiertos y Estadísticas
 
@@ -138,7 +136,7 @@ For the badge (grande):
 
 ## Contribuir
 
-Las contribuciones bienvenidas. Lee las [directrices de contribución](contributing.md) antes de enviar un pull request.
+Las contribuciones son bienvenidas. Lee las [directrices de contribución](contributing.md) antes de enviar un pull request.
 
 ## Nota
 
