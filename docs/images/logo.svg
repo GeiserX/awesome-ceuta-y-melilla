@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="721 34 78 78" width="78" height="78" role="img" aria-label="Awesome Ceuta y Melilla">
+  <!-- The Faro de Melilla from docs/images/banner.svg (the "lighthouse" group
+       of Melilla la Vieja): tower with its lit and shaded faces, gallery, lit
+       lantern, dome, finial and window, same coordinates and colours. Dropped:
+       the a-beam-l gradient and the blurred lantern glow. The two 0.8 lantern
+       mullions are left out, because at 2 units they would cover the lit
+       lantern. -->
+  <polygon points="752,110 768,110 765,62 755,62" fill="#ece6d8"/>
+  <polygon points="760,110 768,110 765,62 760,62" fill="#c9c1ae"/>
+  <rect x="751" y="58" width="18" height="4" fill="#d8d0bd"/>
+  <rect x="754" y="47" width="12" height="11" fill="#ffe3a0"/>
+  <path d="M752,47 Q760,38 768,47 Z" fill="#6a5a48"/>
+  <rect x="759.3" y="36" width="1.4" height="5" fill="#6a5a48"/>
+  <rect x="757" y="76" width="6" height="7" rx="3" fill="#6a5a48" opacity="0.7"/>
+</svg>
