@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "ceuta_melilla",
+  "project_id": "629296b5-064d-4553-80fd-6a970b7b7da2"
+}
